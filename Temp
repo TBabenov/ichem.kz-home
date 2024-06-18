@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .subsection {
+            display: flex;
+            align-items: flex-start;
+            margin-bottom: 20px; /* Отступ снизу для каждой подсекции */
+        }
+
+        .subsection img {
+            width: 250px; /* Укажите необходимую ширину изображения */
+            margin-right: 20px; /* Отступ справа от изображения */
+        }
+
+        .subsection .text {
+            flex: 1; /* Текст займёт оставшееся пространство */
+        }
+    </style>
+</head>
+<body>
+
+<h1 class="major">Products and Services</h1>
+
+<div class="subsection">
+    <img src="images/Production_Chemical_Solutions.png" alt="Production Chemical Solutions">
+    <div class="text">
+        <h2>Production Chemical Solutions</h2>
+        <p>Maximize oil and gas production efficiency with our specialized demulsifiers, corrosion inhibitors, biocides, hydrogen sulfide (H2S) scavengers, scale inhibitors, and other chemical reagents...</p>
+    </div>
+</div>
+
+<div class="subsection">
+    <img src="images/Acid_Stimulation_Services.png" alt="Acid Stimulation Services">
+    <div class="text">
+        <h2>Acid Stimulation Services</h2>
+        <p>“Innovative Chemicals” LLP is specialized in production optimization services...</p>
+    </div>
+</div>
+
+<div class="subsection">
+    <img src="images/Enhanced_Oil_Recovery.png" alt="Enhanced Oil Recovery">
+    <div class="text">
+        <h2>Enhanced Oil Recovery</h2>
+        <p>Our advanced oil recovery methodologies encompass residual oil retrieval through specialized formulations...</p>
+    </div>
+</div>
+
+<div class="subsection">
+    <img src="images/Quality_Control.png" alt="Quality Control of Provided Services">
+    <div class="text">
+        <h2>Quality Control of Provided Services</h2>
+        <p>“Innovative Chemicals” LLP ensures a high standard of quality through a modern laboratory equipped with the necessary facilities...</p>
+    </div>
+</div>
+
+</body>
+</html>

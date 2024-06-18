@@ -1,0 +1,316 @@
+<html>
+	<head>
+<title>Innovative Chemical</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<noscript><link rel="stylesheet" href="assets/css/nosript.css" /></noscript>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	</head>
+	<body>
+
+  	<!-- Wrapper -->
+	<div id="wrapper">
+
+<!-- Profile -->
+<div id="login">
+	<a href="/admin" ><img src=images/login.png width="20" height="auto" vspace="5" hspace="5" alt="Login"></a>
+</div>		
+<div id="bottom">
+	<nav class="none">
+		<ul>
+			<li><a href="index.php">Eng</a></li>
+			<li><a href="index_ru.php">Rus</a></li>							
+		</ul>
+	</nav>
+</div>
+
+<!-- Header -->
+	<header id="header">
+			<div class="logo">
+				<img src="images/mainlogo_2.png" alt="Innovative Chemical" style="filter:brightness(5)">
+			</div>
+			<div class="content">
+				<div class="inner">
+					<p> <font size="6" face="Arial">Production Chemical Solutions and Pumping Services</font></p>	
+					<p> <font size="2" face="Arial">"Switch to an innovative solution for effective complication management. We guarantee a reduction in your expenses – now your business can be both efficient and cost-effective at the same time!"</font></p>						    
+				</div>
+			</div>
+			<nav class="none">
+				<ul>
+					<li><a href="#intro">About us</a></li>
+					<li><a href="#work">Products and Services</a></li>
+					<li><a href="#products">Product Catalogue</a></li>
+					<li><a href="#contacts">Contacts</a></li>								
+				</ul>
+			</nav>
+	</header>
+		
+<!-- Main -->
+	<div id="info">
+		<!-- Intro -->
+			<article id="intro">
+				<h1>About us</h1>						  
+				<div id="pic">
+					<img src="images/about_us.jpg"  width="250" height="auto" vspace="5" hspace="5" alt="About Us"/>
+				</div>
+				<div id="text">
+					<p>“Innovative Chemicals” LLP  is an oilfield services company. We specialize in the production and supply of a wide range of oilfield production chemicals, developed with consideration of the technical aspects of oil, gas and water preparation processes and transportations.</p>
+					<p>Our company possesses its own equipment necessary for conducting chemical treatments of wells aimed at solving complex technical challenges associated with hydrocarbon extraction from wells.</p>
+					<p>To ensure efficient operations and timely customer service, we have warehouse facilities for storing chemical reagents and a laboratory equipped with quality control and problem analysis capabilities related to various deposits and complications during oil and gas preparation and transportation. We also engage in the development and verification of acid compositions' effectiveness.</p>
+					<p>Our research laboratory is involved in testing and developing new reagents tailored to the needs of the oil and gas industry in the Republic of Kazakhstan and the Caspian region.</p>
+					<p>Technical support for our projects is provided by qualified specialists and high-quality technical assistance.</p>
+				</div>
+				<div id="back">
+					<nav class="none">
+						<ul>
+							<li><a href="#header">Back to Main</a></li>							
+						</ul>
+					</nav>
+				</div>
+			</article>
+
+		<!-- Work -->
+			<!--<header>Здесь располагается содержимое нового тега header</header>-->
+		  <article id="work">
+			  <h1 class="major">Products and Services</h1>
+			  <span class="image main"></span> 			
+				  <div class="subsection">	
+
+					<ul>
+						<li>
+							<h2>Production Chemical Solutions</h2>								
+						</li>
+					</ul>
+
+					<div id="pic">
+						<img src="images/Production_Chemical_Solutions.png" width="250" height="auto" vspace="5" hspace="5" alt="Production Chemical Solutions"/>
+					</div>
+
+					<div id="text">
+						<p>Maximize oil and gas production efficiency with our specialized demulsifiers, corrosion inhibitors, biocides, hydrogen sulfide (H2S) scavengers, scale inhibitors, and other chemical reagents. Our comprehensive approach includes developing tailored field testing programs, conducting rigorous laboratory research, and systematic monitoring during application, ensuring the highest efficiency and optimization of production processes.</p>
+					</div>
+				</div>
+
+				<div class="subsection">
+
+					<ul>
+						<li>
+							<h2>Acid Stimulation Services</h3>
+						</li>
+					</ul>
+
+					<div id="pic">
+						<img src="images/Acid_Stimulation_Services.png" width="300" height="auto" vspace="5" hspace="5" align="middle" alt="Acid Stimulation Services"/>
+					</div>
+
+					<div id="text">
+						<p>“Innovative Chemicals” LLP is specialized in production optimization services. Our company uses pressure pumping equipment with advanced safety and data recording devices. We conduct core flow testing in our laboratory to select optimal acid compositions, and control quality of the produced fluid systems. Our team include qualified technical experts in well stimulation with international experience, who are ready to provide solution for various technical challenges.
+						<br>
+						<br>“Innovative Chemicals” LLP currently provides the following services for optimizing production using acid treatments in the near-wellbore zone:</p>
+						<p> - Wellbore acid and solvent clean up 
+						<br> - Matrix Stimulation 
+						<br> - Acid Fracturing</p>
+					</div>
+				</div>	
+				<div class="subsection">
+					<ul>
+						<li>
+							<h2>Enhanced Oil Recovery</h2>
+						</li>
+					</ul>
+
+					<div id="pic">
+						<img src="images/Enhanced_Oil_Recovery.png" width="250" height="auto" vspace="5" hspace="5" alt="Enhanced Oil Recovery"/>
+					</div>
+
+					<div id="text">
+						<p>Our advanced oil recovery methodologies encompass residual oil retrieval through specialized formulations designed to sweep lingering oil within traditional reservoirs. We possess extensive experience in safeguarding well integrity against corrosion and SRB bacteria, employing chemical squeezing to alleviate organic and inorganic scale precipitation on the walls of downhole equipment. 
+						<br>	
+						<br>Through the integration of scientific principles and technical solutions, we deploy customized projects aligned with reservoir conditions and client requirements.</p>
+					</div>
+				</div>
+
+				<div class="subsection">
+					<ul>
+						<li>
+							<h2>Quality control of provided services.</h2>
+						</li>
+					</ul>
+
+					<div id="pic">
+						<img src="images/Laboratory.png" width="300" height="auto" vspace="5" hspace="5"  alt="Laboratory"/>
+					</div>
+
+					<div id="text">
+						<p>“Innovative Chemicals” LLP ensures a high standard of quality through a modern laboratory equipped with the necessary facilities. Specializing in the development of chemical reagents and acid compositions for the oil and gas sectors, the company holding certificates for ISO-9001-2015, ISO-14001-2016, and ISO-45001-2019, confirming its elevated standards in quality management, environmental management, and occupational health and safety.</p>
+					</div>
+
+					<div id="back">
+						<nav class="none">
+							<ul>
+								<li><a href="#header">Back to Main</a></li>							
+							</ul>
+						</nav>
+					</div>
+				</div>
+			<p>&nbsp;</p>
+	  </article>
+
+		  <!-- Intro -->
+		  <article id="products">
+			<h1 class="major">Product Catalogue</h1>
+			<table>							  
+			<tr style="background-color: grey">
+			<th>Catalogue of Chemical Products</th>
+			<th>Brand Name</th>
+			<th>Product Short Description</th>
+			</tr>
+			
+			<tr>
+			<td><a href="pdf/h2s_scavenger.pdf" target="_blank">H2S Scavenger</a></td>
+			<th>ICH</th>
+			<td>Hydrogen sulfide scavenger ICH is an alcoholic solution of compositions based on formaldehyde based, and it is designed to absorb hydrogen sulfide and other sulfur compounds in the processes of production and transportation of oil and gas.</td>							
+			</tr>
+
+			<tr>
+			<td><a href="pdf/demulsifier.pdf" target="_blank">Demulsifier</a></td>
+			<th>ICD</th>
+			<td>Demulsifier	ICD	Demulsifier ICD is a solution of non-ionic surfactants in methanol medium. It is specifically developed for quick and effective separation of water from water-in-oil emulsions. It is useful in applications with high paraffine content and in low temperature environment.</td>							
+			</tr>
+
+			<tr>
+			<td><a href="pdf/scale_inhibitor.pdf" target="_blank">Scale Inhibitor</a></td>
+			<th>ICS</th>
+			<td>Phosphonate based scale inhibitors ICS, it is designed to prevent the deposition of complex mineral salts, such as carbonates and sulfates and barium in oilfield equipment during oil production.</td>							
+			</tr>
+
+			<tr>
+			<td><a href="pdf/oxygen_scavenger.pdf" target="_blank">Oxygen Scavenger</a></td>
+			<th>ICO</th>
+			<td>Oxygen Scavenger ICO is a composition of ammonium bisulfite in an aqueous solution. In the oil and gas production industry it is an auxiliary reagent-neutralizer used to remove or decrease the level of oxygen in the water by reacting with the dissolved oxygen in the water. This reduces the accelerated corrosion caused by the presence of oxygen in a high heat environment.</td>							
+			</tr>
+			
+			<tr>
+			<td><a href="pdf/Biocide_Glut.pdf" target="_blank">Biocides</a></td>
+			<th>ICB-G</th>
+			<td>Biocide ICB is a solution of glutaraldehyde and formaldehyde. It is designed to protect oilfield equipment and pipelines from microbiological corrosion and sulfate reducing bacteria.</td>							
+			</tr>
+			
+			<tr>
+			<td><a href="pdf/Biocide_THPS.pdf" target="_blank">Biocides</a></td>
+			<th>ICB-T</th>
+			<td>Biocide ICB THPS and effective in controlling sulfate-reducing bacteria and general aerobic bacteria, including microorganisms that contribute to biofilm formation in oil-field recovery, processing, and distribution applications and supporting systems. Its advantage is that it will soon degrade to a non-toxic substance immediately after use.</td>							
+			</tr>
+
+			<tr>
+			<td><a href="pdf/corrosion_inhibitor.pdf" target="_blank">Corrosion Inhibitor</a></td>
+			<th>ICC</th>
+			<td>It is a solution of modified alkylimideazolines. It is designed to protect oilfield equipment and pipelines from internal corrosion.</td>							
+			</tr>
+			
+			<tr>
+			<td><a href="pdf/paraffin_inhibitor.pdf" target="_blank">Wax_Inhibitor.pdf</a></td>
+			<th>ICP</th>
+			<td>Wax Inhibitor ICP is polymeric paraffin inhibitor alters the structure of paraffin, decreasing the paraffin’s ability to cluster and adhere to steel surfaces.</td>							
+			</tr>
+			</table>
+			
+			<!--
+			<div id="pic">
+				<img src="images/product_catalogue.png" width="400" height="auto" vspace="5" hspace="5" alt="Product Catalogue" />
+			</div>
+			-->
+			
+			<div id="back">
+				<nav class="none">
+					<ul>
+						<li><a href="#header">Back to Main</a></li>							
+					</ul>
+				</nav>
+			</div>
+			</article>
+
+			
+			  
+			<!-- Contact -->
+		<article id="contacts">
+		<h1 class="major">Contacts</h1>
+		<h3>Address</h3>
+		<p>Republic of Kazakhstan, Mangystau region, Aktau, 17 micro-district, 7 building, office 142.</p>
+		<h3>Production Base</h3>
+		<p>Aktau city, Industrial zone No. 3, ICHEM Base</p>
+
+
+		<h3>Map</h3>
+			
+		<div style="position:relative;overflow:hidden;"><a href="https://yandex.kz/maps?utm_medium=mapframe&utm_source=maps" style="color:#eee;font-size:12px;position:absolute;top:0px;">Яндекс Карты</a><a href="https://yandex.kz/maps/?l=sat%2Cskl&ll=51.204796%2C43.674679&mode=whatshere&utm_medium=mapframe&utm_source=maps&whatshere%5Bpoint%5D=51.204212%2C43.674654&whatshere%5Bzoom%5D=19&z=19" style="color:#eee;font-size:12px;position:absolute;top:14px;">Квартал Промзона-3 — Яндекс Карты</a><iframe src="https://yandex.kz/map-widget/v1/?l=sat%2Cskl&ll=51.204796%2C43.674679&mode=whatshere&whatshere%5Bpoint%5D=51.204212%2C43.674654&whatshere%5Bzoom%5D=19&z=19" width="560" height="400" frameborder="1" allowfullscreen="true" style="position:relative;"></iframe></div>					
+
+			  <h3>Director</h3>
+			  <p>Almas Istayev
+			  <br>E-Mail: almas.istayev@ichem.kz
+			  </p>
+		  
+			  <h3>E-mail</h3>
+			  <P>ai@ichem.kz</p>
+
+			  <h3>Operating mode</h3>
+			  <p>Mon. – Fri: from 9:00 AM to 18:00 PM
+			<br>Sat. - Sun: weekend</p>
+
+			<div id="back">
+				<nav class="none">
+					<ul>
+						<li><a href="#header">Back to Main</a></li>							
+					</ul>
+				</nav>
+			</div>
+
+		</article>
+	</div>
+<!-- Footer -->
+	<footer id="footer">
+		<div class="service">
+			<div>
+				<ul>
+					<li>Oil Field Services</li>
+					<li>Production Chemical solutions</li>
+					<li>Acid Stimulation Services</li>				
+				</ul>
+			</div>
+			<div>
+				<ul>	
+					<li>Experienced Chemical and Petroleum  Engineers</li>
+					<li>Laboratory and continuous Quality Control</li>
+					<li>Professional team to support operation</li>
+				</ul>
+			</div>
+			<div>
+				<ul>
+					<li>Chemical Warehouse</li>
+					<li>Established Logistical Procedures and Transportation Recourses</li>
+					<li>Transportation tanks for HCl Acid (onshore/offshore) </li>								
+				</ul>
+			</div>
+		</div>
+							
+			  <ul class="icons">
+					<li><a target="_blank" href="https://www.linkedin.com/company/innovative-chemicals-%D1%82%D0%BE%D0%BE/about/" class="icon fa-linkedin"><span class="label">Twitter</span></a></li>
+					
+				</ul>
+		<p class="copyright">&copy; 2023 - Innovative Chemical Kazakhstan</p>
+	</footer>
+
+
+</div>
+
+<!-- BG -->
+<div id="bg"></div>
+
+<!-- Scripts -->
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/skel.min.js"></script>
+<script src="assets/js/util.js"></script>
+<script src="assets/js/helper.js"></script>
+<script src="assets/js/main.js"></script>
