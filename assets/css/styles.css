@@ -21,3 +21,15 @@ section {
 .underline-link {
     text-decoration: underline;
 }
+
+#top-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+#bottom nav ul {
+    display: flex;
+    gap: 10px;
+}
